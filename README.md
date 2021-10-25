@@ -1,2 +1,2 @@
 # euwest
-This is my first repositor
+This is my first repository
